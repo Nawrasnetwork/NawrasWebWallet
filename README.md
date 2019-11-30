@@ -12,3 +12,5 @@ As ERC20 tokens need a small amount of Ether to make transfers, the wallet also 
 3. Update config.js to your contract information, gas price and limit as well as etherscan api key (for ropsten you can leave it).
  
  DONE !
+
+The project was forked from DAINET NETWORK .
